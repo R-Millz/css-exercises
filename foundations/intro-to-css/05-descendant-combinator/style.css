@@ -1,1 +1,16 @@
+div .text {
+    background-color: #ffff00;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+
+/* I used a type selector and a class selector "div .text" but other 
+possible descendant combinators could have been used: 
+
+.container .text
+div p
+.container p
+*/
+
 /* Add CSS Styling */
